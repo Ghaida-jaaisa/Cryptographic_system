@@ -38,6 +38,7 @@ This system ensures maximum security by encrypting each file with a truly random
 ```bash
 javac EncryptorGUI.java OneTimePadEncryptor.java
 java EncryptorGUI
+```
 
 ## 🧾 How It Works
 
