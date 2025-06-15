@@ -5,12 +5,21 @@ A lightweight Java-based GUI tool for secure file and folder encryption using th
 This system ensures maximum security by encrypting each file with a truly random key that is used **only once**, making decryption mathematically unbreakable when used correctly.
 
 ---
-## 📸 Demo
+## 📸 Demo - Encrypt File
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9a0e1eb7-a072-4208-bd2d-648b92d6ecce" width="30%" />
   <img src="https://github.com/user-attachments/assets/571ab9b7-b044-4090-8d9b-029761b8bbcb" width="30%" />
   <img src="https://github.com/user-attachments/assets/98999e2a-a44c-4157-b8b8-4721697a3c23" width="30%" />
+</p>
+
+## 📸 Demo - Decrypt File
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e8961f45-f2d0-4996-aa8d-c89135e734cc" width="23%" />
+  <img src="https://github.com/user-attachments/assets/db9a4a5c-d298-4c43-bc74-19c7cf6effd3" width="23%" />
+  <img src="https://github.com/user-attachments/assets/44b954aa-0520-4d30-8dea-5fae17a734d2" width="23%" />
+  <img src="https://github.com/user-attachments/assets/0c6125a0-55d3-43e1-bd61-a33ad95d142a" width="23%" />
 </p>
 
 
