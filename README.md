@@ -23,14 +23,6 @@ This system ensures maximum security by encrypting each file with a truly random
 - Java 8 or later
 - IDE like NetBeans / IntelliJ / VS Code OR command line with `javac` and `java`
 
-### File Structure
-
-project-root/
-├── EncryptorGUI.java
-├── OneTimePadEncryptor.java
-└── (Compiled class files will be generated upon build)
-
-
 ---
 
 ## 🛠️ How to Compile & Run
